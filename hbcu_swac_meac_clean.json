@@ -1,0 +1,335 @@
+{
+  "conferences": [
+    {
+      "name": "SWAC",
+      "requiredConferenceGames": 8,
+      "conferencePrestige": 72.0,
+      "tier": "Mid-Major",
+      "conferenceLogoURL": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Southwestern_Athletic_Conference_logo.svg",
+      "teams": [
+        {
+          "name": "Alabama A&M",
+          "mascot": "Bulldogs",
+          "primary": "102,0,0",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 60.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "AAM",
+          "region": "Alabama / Southeast",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/5/5d/Alabama_A%26M_Bulldogs_logo.svg"
+        },
+        {
+          "name": "Alabama State",
+          "mascot": "Hornets",
+          "primary": "201,151,0",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 63.0,
+          "offenseScheme": "spread",
+          "defenseScheme": "4-3",
+          "abbreviation": "ALB",
+          "region": "Alabama / Southeast",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/2/2a/Alabama_State_Hornets_logo.svg"
+        },
+        {
+          "name": "Bethune-Cookman",
+          "mascot": "Wildcats",
+          "primary": "111,38,61",
+          "secondary": "242,169,0",
+          "tertiary": "0,0,0",
+          "prestige": 66.0,
+          "offenseScheme": "spread",
+          "defenseScheme": "4-3",
+          "abbreviation": "BCU",
+          "region": "Florida / Southeast",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/9/9d/Bethune-Cookman_Wildcats_logo.svg"
+        },
+        {
+          "name": "Florida A&M",
+          "mascot": "Rattlers",
+          "primary": "0,131,68",
+          "secondary": "244,129,31",
+          "tertiary": "255,255,255",
+          "prestige": 70.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "FAM",
+          "region": "Florida / Southeast",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/0/05/FAMU_Rattlers_logo.svg"
+        },
+        {
+          "name": "Jackson State",
+          "mascot": "Tigers",
+          "primary": "0,33,71",
+          "secondary": "0,142,214",
+          "tertiary": "255,255,255",
+          "prestige": 73.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "JSU",
+          "region": "Mississippi / Deep South",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/3/32/Jackson_State_University_logo.svg"
+        },
+        {
+          "name": "Mississippi Valley State",
+          "mascot": "Delta Devils",
+          "primary": "4,106,56",
+          "secondary": "229,25,55",
+          "tertiary": "0,0,0",
+          "prestige": 52.0,
+          "offenseScheme": "spread",
+          "defenseScheme": "4-3",
+          "abbreviation": "MVS",
+          "region": "Mississippi / Delta",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/f/fc/Mississippi_Valley_State_Delta_Devils_logo.svg"
+        },
+        {
+          "name": "Alcorn State",
+          "mascot": "Braves",
+          "primary": "75,48,106",
+          "secondary": "206,142,0",
+          "tertiary": "255,255,255",
+          "prestige": 64.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "ALC",
+          "region": "Mississippi / Southeast",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/b/b7/Alcorn_State_Logo.svg"
+        },
+        {
+          "name": "Arkansas\u2013Pine Bluff",
+          "mascot": "Golden Lions",
+          "primary": "253,185,19",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 55.0,
+          "offenseScheme": "spread",
+          "defenseScheme": "4-3",
+          "abbreviation": "UAPB",
+          "region": "Arkansas / South",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/9/9b/UAPB_Logo.svg"
+        },
+        {
+          "name": "Grambling State",
+          "mascot": "Tigers",
+          "primary": "0,0,0",
+          "secondary": "255,182,18",
+          "tertiary": "255,255,255",
+          "prestige": 75.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "GSU",
+          "region": "Louisiana / Gulf Coast",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/6/6b/Grambling_State_Tigers_logo.svg"
+        },
+        {
+          "name": "Prairie View A&M",
+          "mascot": "Panthers",
+          "primary": "78,42,132",
+          "secondary": "255,204,0",
+          "tertiary": "255,255,255",
+          "prestige": 62.0,
+          "offenseScheme": "spread",
+          "defenseScheme": "4-3",
+          "abbreviation": "PVAM",
+          "region": "Texas / South",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/2/29/PVAMU_Panthers_logo.svg"
+        },
+        {
+          "name": "Southern",
+          "mascot": "Jaguars",
+          "primary": "0,102,153",
+          "secondary": "255,204,0",
+          "tertiary": "255,255,255",
+          "prestige": 71.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "SOU",
+          "region": "Louisiana / Gulf Coast",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/2/2b/Southern_University_Jaguars_logo.svg"
+        },
+        {
+          "name": "Texas Southern",
+          "mascot": "Tigers",
+          "primary": "102,0,0",
+          "secondary": "167,168,171",
+          "tertiary": "255,255,255",
+          "prestige": 58.0,
+          "offenseScheme": "spread",
+          "defenseScheme": "4-3",
+          "abbreviation": "TSU",
+          "region": "Texas / South",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/5/5e/Texas_Southern_University_Logo.svg"
+        }
+      ],
+      "protectedPairs": [
+        {
+          "teamA": "Grambling State",
+          "teamB": "Southern",
+          "mutual": true,
+          "name": "Bayou Classic"
+        },
+        {
+          "teamA": "Grambling State",
+          "teamB": "Prairie View A&M",
+          "mutual": true,
+          "name": "State Fair Classic"
+        },
+        {
+          "teamA": "Jackson State",
+          "teamB": "Southern",
+          "mutual": true,
+          "name": "Boombox Classic"
+        },
+        {
+          "teamA": "Alabama A&M",
+          "teamB": "Alabama State",
+          "mutual": true,
+          "name": "Magic City Classic"
+        }
+      ]
+    },
+    {
+      "name": "MEAC",
+      "requiredConferenceGames": 6,
+      "conferencePrestige": 65.0,
+      "tier": "Mid-Major",
+      "conferenceLogoURL": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mid-Eastern_Athletic_Conference_logo.svg",
+      "teams": [
+        {
+          "name": "Delaware State",
+          "mascot": "Hornets",
+          "primary": "0,51,102",
+          "secondary": "255,204,0",
+          "tertiary": "255,255,255",
+          "prestige": 54.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "DSU",
+          "region": "Mid-Atlantic",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/2/20/Delaware_State_Hornets_logo.svg"
+        },
+        {
+          "name": "Howard",
+          "mascot": "Bison",
+          "primary": "0,29,84",
+          "secondary": "255,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 68.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "HOW",
+          "region": "Mid-Atlantic",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/9/9d/Howard_Bison_logo.svg"
+        },
+        {
+          "name": "Morgan State",
+          "mascot": "Bears",
+          "primary": "0,52,88",
+          "secondary": "255,204,0",
+          "tertiary": "255,255,255",
+          "prestige": 56.0,
+          "offenseScheme": "spread",
+          "defenseScheme": "4-3",
+          "abbreviation": "MSU",
+          "region": "Mid-Atlantic",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/8/8b/Morgan_State_Bears_logo.svg"
+        },
+        {
+          "name": "Norfolk State",
+          "mascot": "Spartans",
+          "primary": "0,61,30",
+          "secondary": "255,204,0",
+          "tertiary": "255,255,255",
+          "prestige": 57.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "NSU",
+          "region": "Mid-Atlantic Coast",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/1/19/Norfolk_State_Spartans_logo.svg"
+        },
+        {
+          "name": "North Carolina Central",
+          "mascot": "Eagles",
+          "primary": "0,51,102",
+          "secondary": "204,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 59.0,
+          "offenseScheme": "spread",
+          "defenseScheme": "4-3",
+          "abbreviation": "NCC",
+          "region": "North Carolina / Southeast",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/3/30/North_Carolina_Central_Eagles_logo.svg"
+        },
+        {
+          "name": "South Carolina State",
+          "mascot": "Bulldogs",
+          "primary": "129,37,23",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 58.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "SCS",
+          "region": "South Carolina / Southeast",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/4/4f/South_Carolina_State_Bulldogs_logo.svg"
+        }
+      ],
+      "protectedPairs": [
+        {
+          "teamA": "Florida A&M",
+          "teamB": "Bethune-Cookman",
+          "mutual": true,
+          "name": "Florida Classic"
+        }
+      ]
+    }
+  ],
+  "independents": [],
+  "protectedClassics": [
+    {
+      "name": "Bayou Classic",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/en/4/4a/Bayou_Classic_logo.svg",
+      "teamA": "Grambling State",
+      "teamB": "Southern",
+      "location": "New Orleans, LA"
+    },
+    {
+      "name": "State Fair Classic",
+      "logoURL": "https://bigtex.com/plan-your-visit/attractions-events/college-football/2025_web_state-fair-classic-logo-850x675/",
+      "teamA": "Grambling State",
+      "teamB": "Prairie View A&M",
+      "location": "Dallas, TX"
+    },
+    {
+      "name": "Boombox Classic",
+      "logoURL": "https://hexmos.com/freedevtools/svg_icons/boombox/boombox-fill/",
+      "teamA": "Jackson State",
+      "teamB": "Southern",
+      "location": "Mississippi / Louisiana area"
+    },
+    {
+      "name": "Florida Classic",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/en/6/6a/Florida_Classic_logo.svg",
+      "teamA": "Florida A&M",
+      "teamB": "Bethune-Cookman",
+      "location": "Orlando, FL"
+    },
+    {
+      "name": "Magic City Classic",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/en/1/17/Magic_City_Classic_logo.svg",
+      "teamA": "Alabama A&M",
+      "teamB": "Alabama State",
+      "location": "Birmingham, AL"
+    }
+  ],
+  "bowls": [
+    {
+      "name": "HBCU Championship",
+      "logoURL": "https://www.thecelebrationbowl.com/wp-content/uploads/2022/12/celebration-bowl-logo.png",
+      "location": "Atlanta, GA"
+    }
+  ]
+}

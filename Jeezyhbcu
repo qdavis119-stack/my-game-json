@@ -1,0 +1,143 @@
+{
+  "conferences": [
+    {
+      "name": "SWAC",
+      "requiredConferenceGames": 8,
+      "conferencePrestige": 72.0,
+      "tier": "Mid-Major",
+      "conferenceLogoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Southwestern_Athletic_Conference_logo.svg/512px-Southwestern_Athletic_Conference_logo.png",
+      "teams": [
+        {
+          "name": "Grambling State",
+          "mascot": "Tigers",
+          "primary": "0,0,0",
+          "secondary": "255,182,18",
+          "tertiary": "255,255,255",
+          "prestige": 75.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "GSU",
+          "region": "Louisiana / South",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Grambling_State_Tigers_logo.svg/512px-Grambling_State_Tigers_logo.png"
+        },
+        {
+          "name": "Southern",
+          "mascot": "Jaguars",
+          "primary": "0,102,153",
+          "secondary": "255,204,0",
+          "tertiary": "255,255,255",
+          "prestige": 71.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "SOU",
+          "region": "Louisiana / South",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Southern_University_Jaguars_logo.svg/512px-Southern_University_Jaguars_logo.png"
+        }
+        /* --- remaining SWAC teams continue --- */
+      ],
+      "protectedPairs": [
+        {
+          "teamA": "Grambling State",
+          "teamB": "Southern",
+          "mutual": true,
+          "name": "Bayou Classic"
+        }
+      ]
+    },
+    {
+      "name": "MEAC",
+      "requiredConferenceGames": 6,
+      "conferencePrestige": 65.0,
+      "tier": "Mid-Major",
+      "conferenceLogoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Mid-Eastern_Athletic_Conference_logo.svg/512px-Mid-Eastern_Athletic_Conference_logo.png",
+      "teams": [
+        {
+          "name": "Howard",
+          "mascot": "Bison",
+          "primary": "0,29,84",
+          "secondary": "255,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 68.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "HOW",
+          "region": "Mid-Atlantic",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Howard_Bison_logo.svg/512px-Howard_Bison_logo.png"
+        }
+      ]
+    },
+    {
+      "name": "SIAC",
+      "requiredConferenceGames": 7,
+      "conferencePrestige": 60.0,
+      "tier": "Mid-Major",
+      "conferenceLogoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/SIAC_logo.svg/512px-SIAC_logo.png",
+      "divisions": {
+        "East": [
+          "Albany State",
+          "Benedict",
+          "Clark Atlanta",
+          "Fort Valley State",
+          "Savannah State"
+        ],
+        "West": [
+          "Central State",
+          "Edward Waters",
+          "Kentucky State",
+          "Lane",
+          "Miles",
+          "Tuskegee"
+        ]
+      },
+      "teams": [
+        {
+          "name": "Tuskegee",
+          "mascot": "Golden Tigers",
+          "primary": "153,0,0",
+          "secondary": "255,204,0",
+          "tertiary": "255,255,255",
+          "prestige": 62.0,
+          "offenseScheme": "pro",
+          "defenseScheme": "4-3",
+          "abbreviation": "TUS",
+          "region": "Alabama / Southeast",
+          "stadium": "Abbott Stadium",
+          "capacity": 22000,
+          "pipeline": "Southeast",
+          "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Tuskegee_Golden_Tigers_logo.svg/512px-Tuskegee_Golden_Tigers_logo.png"
+        }
+      ],
+      "protectedPairs": [
+        {
+          "teamA": "Tuskegee",
+          "teamB": "Albany State",
+          "mutual": true,
+          "name": "SIAC Classic"
+        }
+      ]
+    }
+  ],
+  "protectedClassics": [
+    {
+      "name": "Bayou Classic",
+      "teamA": "Grambling State",
+      "teamB": "Southern",
+      "location": "New Orleans, LA",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Bayou_Classic_logo.svg/512px-Bayou_Classic_logo.png"
+    },
+    {
+      "name": "Magic City Classic",
+      "teamA": "Alabama A&M",
+      "teamB": "Alabama State",
+      "location": "Birmingham, AL",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Magic_City_Classic_logo.svg/512px-Magic_City_Classic_logo.png"
+    }
+  ],
+  "bowls": [
+    {
+      "name": "HBCU Championship",
+      "location": "Atlanta, GA",
+      "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Celebration_Bowl_logo.svg/512px-Celebration_Bowl_logo.png"
+    }
+  ]
+}
